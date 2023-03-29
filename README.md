@@ -1,3 +1,9 @@
+MOUSE TO LOOK AROUND
+
+CLICK TO FIRE
+
+--------------------
+
 Exercise 07
 
 Collaborators:
